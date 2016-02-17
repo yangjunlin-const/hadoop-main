@@ -10,10 +10,20 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/target/generated-sources/java" isTestSource="false" generated="true" />
       <excludeFolder url="file://$MODULE_DIR$/target/antrun" />
+      <excludeFolder url="file://$MODULE_DIR$/target/archive-tmp" />
       <excludeFolder url="file://$MODULE_DIR$/target/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/target/hadoop-hdfs-2.7.1" />
+      <excludeFolder url="file://$MODULE_DIR$/target/javadoc-bundle-options" />
+      <excludeFolder url="file://$MODULE_DIR$/target/log" />
+      <excludeFolder url="file://$MODULE_DIR$/target/maven-archiver" />
+      <excludeFolder url="file://$MODULE_DIR$/target/maven-status" />
+      <excludeFolder url="file://$MODULE_DIR$/target/native" />
+      <excludeFolder url="file://$MODULE_DIR$/target/org" />
+      <excludeFolder url="file://$MODULE_DIR$/target/src-html" />
       <excludeFolder url="file://$MODULE_DIR$/target/test" />
       <excludeFolder url="file://$MODULE_DIR$/target/test-classes" />
       <excludeFolder url="file://$MODULE_DIR$/target/test-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/target/webapps" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
