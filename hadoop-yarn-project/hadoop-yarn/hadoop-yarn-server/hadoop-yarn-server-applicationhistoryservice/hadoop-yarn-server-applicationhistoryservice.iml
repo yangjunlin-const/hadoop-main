@@ -63,7 +63,7 @@
     <orderEntry type="module-library">
       <library name="Maven: jdk.tools:jdk.tools:1.8">
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/jdk1.8.0_65/lib/tools.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../../Downloads/jdk1.8.0_74/lib/tools.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -119,10 +119,10 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.directory.api:api-ldap-codec-core:1.0.0-M20" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.directory.api:api-ldap-extras-aci:1.0.0-M20" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.directory.api:api-ldap-extras-util:1.0.0-M20" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.apache.directory.api:api-ldap-model:1.0.0-M20" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.directory.api:api-ldap-model:1.0.0-M20" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.directory.api:api-util:1.0.0-M20" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.apache.mina:mina-core:2.0.0-M5" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: net.sf.ehcache:ehcache-core:2.4.4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.mina:mina-core:2.0.0-M5" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: net.sf.ehcache:ehcache-core:2.4.4" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.directory.server:apacheds-interceptor-kerberos:2.0.0-M15" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.directory.server:apacheds-core:2.0.0-M15" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.directory.server:apacheds-interceptors-admin:2.0.0-M15" level="project" />
@@ -150,11 +150,11 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.directory.server:apacheds-core-avl:2.0.0-M15" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.directory.api:api-all:1.0.0-M20" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: commons-pool:commons-pool:1.6" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: antlr:antlr:2.7.7" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: antlr:antlr:2.7.7" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.directory.server:apacheds-jdbm-partition:2.0.0-M15" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.directory.jdbm:apacheds-jdbm1:bundle:2.0.0-M2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.directory.server:apacheds-protocol-ldap:2.0.0-M15" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.apache.directory.api:api-asn1-ber:1.0.0-M20" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.directory.api:api-asn1-ber:1.0.0-M20" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.directory.api:api-ldap-extras-codec-api:1.0.0-M20" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.directory.api:api-ldap-extras-codec:1.0.0-M20" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.directory.api:api-ldap-extras-sp:1.0.0-M20" level="project" />
